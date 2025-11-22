@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@gm-tools/project-tool-win-x64": "^2024.14.151",
+    "@gmrt-group-release-win-x64/gmrt": "^0.18.0",
+    "@gmrt-third-party-release-win-x64/clang": "^17.0.5",
+    "@gmrt-third-party-release-win-x64/visualstudio-sysroot": "^17.7.4"
+  }
+}
